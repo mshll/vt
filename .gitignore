@@ -1,0 +1,7 @@
+# vt working directory (contains secrets)
+.vt/
+
+# common
+.DS_Store
+*.swp
+*~
